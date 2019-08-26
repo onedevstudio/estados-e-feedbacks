@@ -5,13 +5,13 @@
 - [Estados de uma aplicação](/states.md)
 - [Telas de erro de uma aplicação](/error-pages.md)
 
-## Leituras:
+## Mais leituras:
 
 * Designing for different states in the UI
   * [https://uxdesign.cc/designing-for-different-ui-states-87d60130f85f](https://uxdesign.cc/designing-for-different-ui-states-87d60130f85f)
 
 * Designing for the worst cases
-  * - [https://uxdesign.cc/designing-for-the-worst-cases-eba546ec042](https://uxdesign.cc/designing-for-the-worst-cases-eba546ec042)
+  * [https://uxdesign.cc/designing-for-the-worst-cases-eba546ec042](https://uxdesign.cc/designing-for-the-worst-cases-eba546ec042)
 
 * Designing for the good
   * [https://uxdesign.cc/designing-for-the-good-25064378fee](https://uxdesign.cc/designing-for-the-good-25064378fee)
